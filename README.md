@@ -12,3 +12,4 @@ Run this code in <b>[Visual Studio Code](https://code.visualstudio.com/)</b> onl
 - 💪 App Author: **JStarPakistaniGamerYT#9756**
 - 💬 Discord: <b>[JSTAR's Wikis](https://jstargameryt.repl.co/discord)</b>
 - 🌎 Official Website: <b>https://jstargameryt.repl.co/</b>
+- ✅ Also Available on: <b>https://codes.jstargameryt.repl.co/</b>
