@@ -9,4 +9,4 @@ Simply install the app and customize the About Me, Skills and Project sections a
 ## 🔗 LINKS
 - 💪 App Author: **JStarPakistaniGamerYT#9756**
 - 💬 Discord: <b>[JSTAR's Wikis](https://jstargameryt.repl.co/discord)</b>
-- 🌎 Official Website: https://jstargameryt.repl.co/
+- 🌎 Official Website: <b>https://jstargameryt.repl.co/</b>
